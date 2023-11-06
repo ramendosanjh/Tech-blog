@@ -4,16 +4,12 @@
 
 This project is a CMS-style blog site that allows developers to publish articles, blog posts, and their thoughts and opinions about various tech-related topics. It follows the Model-View-Controller (MVC) architectural pattern and incorporates technologies like Handlebars.js, Sequelize (as the Object-Relational Mapping tool), and express-session for authentication. The application allows users to create accounts, publish blog posts, comment on existing posts, and manage their posts through a dashboard.
 
-![Application Screenshot](./assets/screenshot.png)
 
 ## Table of Contents
 
+- [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [License](#license)
 - [Questions](#questions)
 
 ## User Story
@@ -40,11 +36,8 @@ so that I can publish articles, blog posts, and my thoughts and opinions.
 - Users can log out of the site.
 - If users are idle on the site for a set time, they are prompted to log in again before adding, updating, or deleting posts.
 
-## Installation
 
-To run this application locally, follow these steps:
 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Run the following command to install the required dependencies:
+## Questions
 
+If you have any questions email me @ ramendosanjh@outlook.com
